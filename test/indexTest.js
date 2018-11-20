@@ -4,6 +4,7 @@ describe('index.js', function () {
   const drivers = [];
   const extendedDrivers = [];
 
+
   beforeEach(function () {
     drivers.length = 0;
 
